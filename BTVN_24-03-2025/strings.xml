@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="currency_list">
+        <item>United States - Dollar</item>
+        <item>VietNam - Dong</item>
+        <item>Europe - Euro</item>
+        <item>Japan - Yen</item>
+        <item>British - Pound</item>
+
+    </string-array>
+</resources>
